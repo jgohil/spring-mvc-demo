@@ -14,4 +14,8 @@
     <br/>
     <button type="submit">Login</button>
 </form>
-<c:if test="${not empty error
+<c:if test="${not empty error}">
+    <div>${error}</div>
+</c:if>
+</body>
+</html>

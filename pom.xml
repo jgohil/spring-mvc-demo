@@ -18,7 +18,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>5.3.22</version> <!-- Adjust to the latest version compatible with Java 17 -->
+            <version>6.1.11</version>
         </dependency>
 
         <!-- Servlet API -->
