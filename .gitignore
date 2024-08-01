@@ -39,3 +39,4 @@ build/
 
 ### NODE ###
 node_modules/
+/frontend/dist/
